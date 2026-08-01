@@ -1,8 +1,10 @@
-# agentic-bff
+# Agentic BFF
 
 A small demo of the **Backend-For-Frontend (BFF)** pattern, rebuilt for the agentic era: the same aggregation logic that shapes data for a web UI also runs as an **MCP tool**, so an AI agent can call it directly instead of re-deriving the same data from scratch.
 
 This is the modern successor to [`react-bff`](https://github.com/caprica-Six/react-bff) (Next.js 13, Pages Router, 2023) — same demo data and profile shape, rebuilt on the current Next.js App Router with no self-fetch anti-pattern, and extended with an MCP server.
+
+<img width="685" height="823" alt="image" src="https://github.com/user-attachments/assets/420cf464-e365-4a8f-b2a8-fa43ab92088e" />
 
 ## Why this matters
 
